@@ -1,5 +1,5 @@
 #American-Sign-Language-Detection
-<h1 align="left">Hey, this README is a "work in progress"</h1>
+<h1 align="left">This README is a, </h1>
 
 ###
 
